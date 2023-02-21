@@ -7,7 +7,8 @@
 # My Current Web Projects -
 - Todo App - https://spacious74.github.io/ToDoUI/
 - iPhone Landing Page Clone - https://spacious74.github.io/iPhoneLandingPage/
-- Working on Quiz App - https://github.com/Spacious74/MyMiniProjects/tree/master/P2_Quiz
+- Quiz App - https://spacious74.github.io/Quiz-App/
+- Tic Tac Toe App - https://spacious74.github.io/Tic-Tac-Toe/
 <!---
 Spacious74/Spacious74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
