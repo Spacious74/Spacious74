@@ -1,4 +1,4 @@
-<img align = "right" alt = "Coding Image Banner" src="https://res.cloudinary.com/drrczbcx7/image/upload/v1694160121/Regular/programming_banner_image_af2vmb.jpg">
+<img align = "right" alt = "Coding Image Banner" src="https://res.cloudinary.com/drrczbcx7/image/upload/v1694165995/Regular/Outdoor_Graduation_Banner_in_Cream_Pink_and_Purple_Rustic_Artisinal_Style_dmgr1k.gif">
 
 <h1 align="left">Hi 👋, I'm Vishal Savita</h1>
 
