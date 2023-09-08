@@ -39,6 +39,10 @@
 - Tic Tac Toe App - https://spacious74.github.io/Tic-Tac-Toe/
 - Rock Paper Scissor - https://spacious74.github.io/stone-paper-scissor/
 
+<h4 aligh="left">3d Graphic Designing</h4>
+
+- Spline Work - https://spacious74.github.io/spline-3d-graphics/
+
 <h4 aligh="left">Wordpress website</h4>
 
 - Programming Languages tutorial website - https://a1codiology.wordpress.com/
