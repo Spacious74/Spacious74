@@ -1,4 +1,4 @@
-<img alt="Developement letter banner" src="https://res.cloudinary.com/drrczbcx7/image/upload/v1694160121/Regular/programming_banner_image_af2vmb.jpg">
+<img alt="Developement letter banner" align="left" width="200px" src="https://res.cloudinary.com/drrczbcx7/image/upload/v1694254056/Regular/computerVideo-unscreen_h1egyn.gif">
 
 <h1 align="left">Hi 👋, I'm Vishal Savita</h1>
 
