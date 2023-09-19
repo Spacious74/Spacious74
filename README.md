@@ -6,7 +6,7 @@
 <h3 align="left">A Progressive Web developer from India</h3>
 
 
-<img align = "right" alt = "Coding GIF" width="400px" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif">
+<img align = "right" alt = "Coding GIF" width="400px" src="https://cdn.dribbble.com/users/948461/screenshots/5858009/media/b5a15bbcf575d39933d580c37d431949.gif">
 
 
 
