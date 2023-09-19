@@ -1,11 +1,12 @@
-<img alt="Developement letter banner" align="left" width="200px" src="https://res.cloudinary.com/drrczbcx7/image/upload/v1694254056/Regular/computerVideo-unscreen_h1egyn.gif">
+<img alt="Developement letter banner" align="center" src="https://cdn.dribbble.com/userupload/10184348/file/original-d9f02bfc378ffbb376ffb8a1a3264c63.gif">
+
 
 <h1 align="left">Hi <img width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Vishal Savita</h1>
 
 <h3 align="left">A Progressive Web developer from India</h3>
 
 
-<img align = "right" alt = "Coding GIF" width="400px" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
+<img align = "right" alt = "Coding GIF" width="400px" src="https://cdn.dribbble.com/users/1282416/screenshots/2859399/media/7876dd3dbc1111578d80369da11b047b.gif">
 
 
 
