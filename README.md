@@ -1,11 +1,11 @@
 <img alt="Developement letter banner" align="left" width="200px" src="https://res.cloudinary.com/drrczbcx7/image/upload/v1694254056/Regular/computerVideo-unscreen_h1egyn.gif">
 
-<h1 align="left">Hi 👋, I'm Vishal Savita</h1>
+<h1 align="left">Hi <img width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Vishal Savita</h1>
 
 <h3 align="left">A Progressive Web developer from India</h3>
 
 
-<img align = "right" alt = "Coding" width="400px" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align = "right" alt = "Coding GIF" width="400px" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
 
 
 
@@ -62,3 +62,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spacious74&show_icons=true&locale=en&layout=compact" alt="spacious74" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spacious74&show_icons=true&locale=en" alt="spacious74" /></p>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" align="center">
+
