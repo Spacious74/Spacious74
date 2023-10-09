@@ -14,7 +14,7 @@
 </p>
 
 <h2>
-  👨🏻‍💻 Visit - <a href="https://ospacious.netlify.app/" target="_blank">Portofio Website</a>
+  👨🏻‍💻 Visit - <a href="https://ospacious.netlify.app/" target="_blank">My Portofio Website</a>
 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacious74&label=Profile%20views&color=0e75b6&style=flat" alt="spacious74" /> </p>
 
@@ -31,8 +31,11 @@
   <a href="https://www.linkedin.com/in/vishal-savita-876624169/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/spacious74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/spacious74" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/spacious74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="spacious74" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/spacious74" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" />    </a>
+  <a href="https://auth.geeksforgeeks.org/user/spacious74" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="spacious74" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
