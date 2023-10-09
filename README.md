@@ -1,54 +1,21 @@
 <img alt="Developement letter banner" align="center" src="https://cdn.dribbble.com/userupload/10184348/file/original-d9f02bfc378ffbb376ffb8a1a3264c63.gif">
 
 
-<h1 align="left">Hi <img width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Vishal Savita</h1>
+<h1 align="center"><img width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I'm Vishal Savita</h1>
 
-<h3 align="left">A Progressive Web developer from India</h3>
+<h4 align="center">
+  💼 I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with a strong foundation in creating dynamic and interactive web applications.
+</h4>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=spacious74&label=Profile%20views&color=0e75b6&style=flat" alt="spacious74" /> </p>
 
-<img align = "right" alt = "Coding GIF" width="400px" src="https://cdn.dribbble.com/users/948461/screenshots/5858009/media/b5a15bbcf575d39933d580c37d431949.gif">
+<h3 align="center">
+  Ask me about
+</h3>
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spacious74&label=Profile%20views&color=0e75b6&style=flat" alt="spacious74" /> </p>
-
-
-
-- 🔭 I’m currently working on [Google Search Clone](https://new-googles.netlify.app)
-
-- 🌱 I’m currently learning **Full Stack Developement**
-
-- 💬 Ask me about **Javascript, MERN Stack**
-
-- 📫 How to reach me **vishalsavita809018@gmail.com**
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OKkd0lBGWoskgZztY7C-5BpQj7nx_Oiv/view?usp=sharing)
-
-- ⚡ Fun fact **I am always at my Learning Phase**
-
-<h3 align="left">Projects </h3>
-<h4 aligh="left">Full Stack Applications</h4>
-
-- Movie Booking App - https://show-box.netlify.app
-- E-commerce Store - https://shopping-bag-dotcom.netlify.app
-- Google Search Clone - https://new-googles.netlify.app
-
-<h4 aligh="left">Mini UI Projects</h4>
-
-- Todo App - https://spacious74.github.io/ToDoUI/
-- iPhone Landing Page Clone - https://spacious74.github.io/iPhoneLandingPage/
-- Quiz App - https://spacious74.github.io/Quiz-App/
-- Tic Tac Toe App - https://spacious74.github.io/Tic-Tac-Toe/
-- Rock Paper Scissor - https://spacious74.github.io/stone-paper-scissor/
-
-<h4 aligh="left">3d Graphic Designing</h4>
-
-- Spline Work - https://spacious74.github.io/spline-3d-graphics/
-
-<h4 aligh="left">Wordpress website</h4>
-
-- Programming Languages tutorial website - https://a1codiology.wordpress.com/
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/800px-MERN-logo.png?20200328184328" align="center" width="200px" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
