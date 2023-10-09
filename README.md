@@ -1,27 +1,38 @@
 <img alt="Developement letter banner" align="center" src="https://cdn.dribbble.com/userupload/10184348/file/original-d9f02bfc378ffbb376ffb8a1a3264c63.gif">
 
 
-<h1 align="center"><img width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I'm Vishal Savita</h1>
+<h1 align="left"><img width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I'm Vishal Savita</h1>
 
-<h4 align="center">
-  💼 I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with a strong foundation in creating dynamic and interactive web applications.
-</h4>
+<p align="left">
+  <p>
+    💼 I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with a strong foundation in creating dynamic and interactive web applications.
+  </p>
+  <p>
+    🚀 With a keen eye for detail and a commitment to delivering high-quality code, I thrive in the fast-paced world of web development. My goal is to craft seamless user experiences           that leave a lasting impression.
+  </p>
+  💡 Whether it's building robust backend systems with Node.js and Express, creating responsive and engaging front-end interfaces using React, or integrating databases with MongoDB, I'm     always eager to take on new challenges and continuously expand my skill set.
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=spacious74&label=Profile%20views&color=0e75b6&style=flat" alt="spacious74" /> </p>
+<h2>
+  👨🏻‍💻 Visit - <a href="https://ospacious.netlify.app/" target="_blank">Portofio Website</a>
+</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spacious74&label=Profile%20views&color=0e75b6&style=flat" alt="spacious74" /> </p>
 
-<h3 align="center">
+<h3 align="left">
   Ask me about
 </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/800px-MERN-logo.png?20200328184328" align="center" width="200px" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vishal-savita-876624169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vishal-savita-876624169" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/spacious74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/spacious74" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/spacious74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="spacious74" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vishal-savita-876624169/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/spacious74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/spacious74" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/spacious74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="spacious74" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
