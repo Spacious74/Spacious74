@@ -16,6 +16,11 @@
 <h2>
   👨🏻‍💻 Visit - <a href="https://ospacious.netlify.app/" target="_blank">My Portofio Website</a>
 </h2>
+
+<h2>
+  Hire me - <a href="https://drive.google.com/file/d/1OKkd0lBGWoskgZztY7C-5BpQj7nx_Oiv/view?usp=drive_link" target="_blank">My Resume</a>
+</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacious74&label=Profile%20views&color=0e75b6&style=flat" alt="spacious74" /> </p>
 <br/>
 <h2 align="left">
