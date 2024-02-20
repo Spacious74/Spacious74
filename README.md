@@ -1,7 +1,7 @@
 <img alt="Developement letter banner" align="center" src="https://cdn.dribbble.com/userupload/10184348/file/original-d9f02bfc378ffbb376ffb8a1a3264c63.gif">
 
 
-<h1 align="left"><img width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> Hi, I'm Vishal Savita</h1>
+<h1 align="left">👋🏻 Hi, I'm Vishal Savita</h1>
 
 <p align="left">
   <p>
