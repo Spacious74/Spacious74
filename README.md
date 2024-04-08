@@ -1,7 +1,23 @@
 <img alt="Developement letter banner" align="center" src="https://cdn.dribbble.com/userupload/10184348/file/original-d9f02bfc378ffbb376ffb8a1a3264c63.gif">
 
 
-<h1 align="left" style="color : red;" >👋🏻 Hi, I'm Vishal Savita</h1>
+
+  <h3>
+      👋🏻 Hi, I'm Vishal Savita
+      <a href="https://www.linkedin.com/in/vishal-savita-876624169/" >
+        <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="30" align="right" />
+      </a>
+      <a href="https://auth.geeksforgeeks.org/user/spacious74" target="_blank" >
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" width="50" align="right" />
+      </a>
+      <a href="https://www.linkedin.com/in/vishal-savita-876624169/" >
+        <img src="https://cdn-icons-png.flaticon.com/128/145/145807.png" width="30" align="right" />
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=spacious74&label=Profile%20views&color=0e75b6&style=flat" alt="spacious74" align="right" />
+  </h3>
+  
+
+    
 
 <p align="left">
   <p>
@@ -12,20 +28,23 @@
   </p>
   💡 Whether it's building robust backend systems with Node.js and Express, creating responsive and engaging front-end interfaces using React, or integrating databases with MongoDB, I'm     always eager to take on new challenges and continuously expand my skill set.
 </p>
+<hr/>
 
-<h2>
-  👨🏻‍💻 Visit - <a href="https://ospacious.netlify.app/" target="_blank">My Portofio Website</a>
-</h2>
+<h3>
+  <img  width="40"  align="center" src="https://lordicon.com/icons/wired/lineal/268-avatar-man.svg">
+  Visit : <a href="https://ospacious.netlify.app/" target="_blank">My Portofio Website</a> to checkout my all projects.
+</h3>
 
-<h2>
-  Hire me - <a href="https://drive.google.com/file/d/1EHaA_OrzBfL9GOG09nZrn2Ld1TplpmVk/view?usp=sharing" target="_blank">My Resume</a>
-</h2>
+<h3>
+  <img  width="40"  align="center" src="https://lordicon.com/icons/wired/lineal/56-document.svg">
+  Hire me : <a href="https://drive.google.com/file/d/1EHaA_OrzBfL9GOG09nZrn2Ld1TplpmVk/view?usp=sharing" target="_blank">My Resume</a>
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spacious74&label=Profile%20views&color=0e75b6&style=flat" alt="spacious74" /> </p>
-<br/>
-<h2 align="left">
-  ✨ Ask me about - 
-</h2>
+<hr/>
+
+<h3 align="left">
+ Ask me about - 
+</h3>
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MERN-logo.png/800px-MERN-logo.png?20200328184328" align="center" width="200px" />
@@ -40,7 +59,7 @@
   <a href="https://www.hackerrank.com/spacious74" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" />    </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://auth.geeksforgeeks.org/user/spacious74" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="spacious74" width="40" />
+   
   </a>
 </p>
 
