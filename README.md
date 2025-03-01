@@ -1,7 +1,5 @@
 <img alt="Developement letter banner" align="center" src="https://cdn.dribbble.com/userupload/10184348/file/original-d9f02bfc378ffbb376ffb8a1a3264c63.gif">
 
-
-
   <h3>
       👋🏻 Hi, I'm Vishal Savita
       <a href="https://www.linkedin.com/in/vishal-savita-876624169/" >
@@ -32,12 +30,10 @@
 <hr/>
 
 <h3>
-  <img  width="40"  align="center" src="https://lordicon.com/icons/wired/lineal/268-avatar-man.svg">
   Visit : <a href="https://ospacious.netlify.app/" target="_blank">My Portofio Website</a> to checkout my all projects.
 </h3>
 
 <h3>
-  <img  width="40"  align="center" src="https://lordicon.com/icons/wired/lineal/56-document.svg">
   Hire me : <a href="https://drive.google.com/file/d/1EHaA_OrzBfL9GOG09nZrn2Ld1TplpmVk/view?usp=sharing" target="_blank">My Resume</a>
 </h3>
 
